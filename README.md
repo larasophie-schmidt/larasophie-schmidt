@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @larasophie-schmidt
 - 👀 I’m interested in Webdesign
 - 🌱 I’m currently learning HTML, CSS, JavaScript and PHP
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on nothing
 - 📫 How to reach me ...
 
 <!---
